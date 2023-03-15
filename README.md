@@ -14,7 +14,7 @@
     <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://user-images.githubusercontent.com/24373542/225462925-439ee1e7-50d4-4eee-b3a3-2845f9d9f848.png">
+  <img align="center" alt="Csharp" height="30" width="30" src="https://user-images.githubusercontent.com/24373542/225462925-439ee1e7-50d4-4eee-b3a3-2845f9d9f848.png">
   <img align="right" alt="" height="100" style="border-radius:50%;" src="https://www.blogson.com.br/wp-content/uploads/2017/10/584b607f5c2ff075429dc0e7b8d142ef.gif">
   
 
